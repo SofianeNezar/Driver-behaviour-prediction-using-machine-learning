@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- External files directory - where your CSV files are being saved -->
+    <external-files-path
+        name="external_files"
+        path="." />
+
+    <!-- You can also add other paths if needed -->
+    <external-files-path
+        name="documents"
+        path="Documents/" />
+
+    <!-- Internal files directory (if needed) -->
+    <files-path
+        name="files"
+        path="." />
+
+    <!-- Cache directory (if needed) -->
+    <cache-path
+        name="cache"
+        path="." />
+</paths>
