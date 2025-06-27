@@ -861,7 +861,6 @@ class MainActivity : ComponentActivity(), SensorEventListener {
     }
 
     @Composable
-    // Dans MainActivity.kt, remplacez le composable MotionClassifierScreen par :
     fun MotionClassifierScreen() {
         val scrollState = rememberScrollState()
 
